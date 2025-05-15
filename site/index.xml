@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Miron Shemchuk project</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Miron Shemchuk project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homepage</title>
+      <link>https://example.org/posts/about/</link>
+      <pubDate>Thu, 15 May 2025 07:07:07 +0100</pubDate>
+      <guid>https://example.org/posts/about/</guid>
+      <description>&lt;h1 id=&#34;проектная-практика&#34;&gt;&#xA;  Проектная практика&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba%d0%b0&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Это домашняя страница моего проекта&lt;/p&gt;&#xA;&lt;h2 id=&#34;аннотация&#34;&gt;&#xA;  Аннотация&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%b0%d0%bd%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d1%8f&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Данный проект создан с использованием генератора статических сайтов &lt;a href=&#34;https://gohugo.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt; и отображает навыки верстки сайтов с использованием данной технологии&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../hugo-logo.jpg?width=100px&#34; alt=&#34;ico&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;участники&#34;&gt;&#xA;  Участники&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba%d0%b8&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Проект подготовлен студентом группы 241-327 Шемчуком Мироном&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../mospol.png?width=100px&#34; alt=&#34;ico&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Homepage</title>
+      <link>https://example.org/posts/homepage/</link>
+      <pubDate>Thu, 15 May 2025 07:07:07 +0100</pubDate>
+      <guid>https://example.org/posts/homepage/</guid>
+      <description>&lt;h1 id=&#34;проектная-практика&#34;&gt;&#xA;  Проектная практика&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba%d0%b0&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Это домашняя страница моего проекта&lt;/p&gt;&#xA;&lt;h2 id=&#34;аннотация&#34;&gt;&#xA;  Аннотация&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d0%b0%d0%bd%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d1%8f&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Данный проект создан с использованием генератора статических сайтов &lt;a href=&#34;https://gohugo.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt; и отображает навыки верстки сайтов с использованием данной технологии&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../hugo-logo.jpg?width=100px&#34; alt=&#34;ico&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;участники&#34;&gt;&#xA;  Участники&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba%d0%b8&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Проект подготовлен студентом мосполитеха группы 241-327 &lt;a href=&#34;../about.md&#34; &gt;&lt;strong&gt;Шемчуком Мироном&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../mospol.png?width=100px&#34; alt=&#34;ico&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
